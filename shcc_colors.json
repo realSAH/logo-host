@@ -1,0 +1,43 @@
+{
+  "branding_proposal": {
+    "organization": "State Health Coordination Centre",
+    "section": "Colours",
+    "palette": [
+      {
+        "name": "Purple",
+        "cmyk": "85:90:45:65",
+        "rgb": "35:20:52",
+        "hex": "#231434"
+      },
+      {
+        "name": "Blue",
+        "cmyk": "100:10:0:30",
+        "rgb": "0:122:173",
+        "hex": "#007AAD"
+      },
+      {
+        "name": "Green",
+        "cmyk": "57:0:100:0",
+        "rgb": "122:193:67",
+        "hex": "#7AC143"
+      },
+      {
+        "name": "Gold",
+        "cmyk": "0:35:100:0",
+        "rgb": "252:175:23",
+        "hex": "#FCAF17"
+      }
+    ],
+    "gradients": [
+      {
+        "description": "Green to Blue Horizontal Gradient",
+        "colors": ["Green", "Blue"]
+      },
+      {
+        "description": "Abstract Wavy Line Gradient",
+        "colors": ["Green", "Blue"],
+        "orientation": "vertical"
+      }
+    ]
+  }
+}
